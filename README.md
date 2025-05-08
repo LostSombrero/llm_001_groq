@@ -62,9 +62,12 @@ GROQ_MODEL=deepseek-r1-distill-llama-70b
 
 ```bash
 python run_batch_domains.py
+```
 
 oder für eine einzelne URL:
+```
 python main_script.py https://example.com
+```
 
 ---
 
