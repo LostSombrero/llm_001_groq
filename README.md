@@ -23,12 +23,12 @@ llm_001/
 │ └── urls.csv		        # CSV-Datei mit den Ziel-URLs
 ├── output/
 │ └── impressum_analyse.csv	# Ergebnisdatei der Datenextraktion
-├── main_script.py		    # Einzelverarbeitung
+├── main_script.py		# Einzelverarbeitung
 ├── run_batch_domains.py	# Batch-Verarbeitung
-├── llm_query.py		    # LLM-Logik für Datenanalyse (Groq API)
+├── llm_query.py		# LLM-Logik für Datenanalyse (Groq API)
 ├── webscrape_imprint.py	# Web-Scraping Modul
-├── .env			        # API-Key und Modellkonfiguration
-└── README.md			    # Diese Datei
+├── .env			# API-Key und Modellkonfiguration
+└── README.md			# Diese Datei
 ```
 
 ---
