@@ -169,10 +169,9 @@ Example GmbH,Max Mustermann,info@example.com,+49 123 4567,Musterstraße 1,12345,
 [0.3 – 1.0]
 
 - Einträge wie /index.php/impressum/ verschlechtern die Extraktion auf bestimmten Seiten
-
-Beispiel:
-	- negativ: https://www.pro-energy-solutions.de/
-	- positiv: https://probatum-sun.de/
+	- Beispiel:
+		- negativ: https://www.pro-energy-solutions.de/
+		- positiv: https://probatum-sun.de/
 
 ---
 
