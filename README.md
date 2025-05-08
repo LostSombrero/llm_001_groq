@@ -52,13 +52,13 @@ GROQ_MODEL=deepseek-r1-distill-llama-70b
 
 ## ⚙️ Setup und Ausführung (Guide)
 
-### 1. Ursprünglichen Guide folgen (außer Ollama).
-### 2. `pip install python-dotenv`
-### 3. [Groq Playground](https://console.groq.com/home) öffnen
-### 4. Einloggen oder Account erstellen
-### 5. API-Key erstellen ([groq.com/keys](https://console.groq.com/keys))
-### 6. `.env` mit Key und Modell befüllen
-### 7. Ausführung:
+1. Ursprünglichen Guide folgen (außer Ollama).
+2. `pip install python-dotenv`
+3. [Groq Playground](https://console.groq.com/home) öffnen
+4. Einloggen oder Account erstellen
+5. API-Key erstellen ([groq.com/keys](https://console.groq.com/keys))
+6. `.env` mit Key und Modell befüllen
+7. Ausführung:
 
 ```bash
 python run_batch_domains.py
